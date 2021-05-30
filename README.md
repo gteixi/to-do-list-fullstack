@@ -2,6 +2,9 @@
 
 ![Logo of ReactJS](https://res.cloudinary.com/practicaldev/image/fetch/s--MLrhag65--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png)
 
+![Screenshot of Dashboard](https://user-images.githubusercontent.com/57844775/120105890-11380200-c15b-11eb-8a44-742153779c76.png)
+
+
 # Description
 
 - Project developed in ReactJS.
