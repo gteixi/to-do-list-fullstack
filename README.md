@@ -1,5 +1,7 @@
 ## To-Do-List FullStack
 
+![Logo of ReactJS](https://res.cloudinary.com/practicaldev/image/fetch/s--MLrhag65--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png)
+
 # Description
 
 - Project developed in ReactJS.
